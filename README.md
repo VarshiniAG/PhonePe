@@ -168,8 +168,8 @@ PhonePe Pulse JSON → Data Extraction → SQLite → Analysis (SQL) → Streaml
 This project uses open-source PhonePe Pulse data (CC BY-NC 4.0). Built independently by Priya T S for educational and business analytics demonstration.
 
 🙋 Author
-👩 Priya T S
-🔗 GitHub: @Priya-96-aiml
+👩 Varshini A G
+🔗 GitHub: @https://github.com/VarshiniAG
 📧 Contact: Available via GitHub profile
 
 ⭐ Give it a Star!
