@@ -165,7 +165,7 @@ PhonePe Pulse JSON → Data Extraction → SQLite → Analysis (SQL) → Streaml
 ☁ Docker and AWS-ready containerization
 
 📄 License & Credits
-This project uses open-source PhonePe Pulse data (CC BY-NC 4.0). Built independently by Priya T S for educational and business analytics demonstration.
+This project uses open-source PhonePe Pulse data (CC BY-NC 4.0). Built independently by Varshini A G for educational and business analytics demonstration.
 
 🙋 Author
 👩 Varshini A G
